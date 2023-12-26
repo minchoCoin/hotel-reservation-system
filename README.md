@@ -23,7 +23,7 @@ postgreSQL과 JAVA로 제작하였습니다.
 - [https://www.postgresqltutorial.com/ ](https://www.postgresqltutorial.com/)
 - [https://bamdule.tistory.com/233 ](https://bamdule.tistory.com/233 )
 - [https://jdbc.postgresql.org/documentation/ ](https://jdbc.postgresql.org/documentation/ )
-- [https://www.postgresql.org/message-id/bb4163ec1fc0467eb1f04c18dc964159@ISCSRV-EXC05.Intrinsec.neurones.sa](https://www.postgresql.org/message-id/bb4163ec1fc0467eb1f04c18dc964159@ISCSRV-EXC05.Intrinsec.neurones.sa)
+- [https://www.postgresql.org/message-id/bb4163ec1fc0467eb1f04c18dc964159@ISC-SRV-EXC05.Intrinsec.neurones.sa](https://www.postgresql.org/message-id/bb4163ec1fc0467eb1f04c18dc964159@ISC-SRV-EXC05.Intrinsec.neurones.sa)
 
 # License
 MIT license
